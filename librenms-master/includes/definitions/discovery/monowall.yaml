@@ -1,3 +1,0 @@
-modules:
-    os:
-        sysDescr_regex: '/ (?<version>[\d.-]+\S*) (?<features>.+) (?<hardware>\S+)$/'

@@ -1,9 +1,0 @@
-os: mrvld
-group: mrv
-text: 'MRV LambdaDriver'
-type: network
-icon: mrv
-discovery:
-    -
-        sysDescr_regex:
-            - '/^LambdaDriver/'
